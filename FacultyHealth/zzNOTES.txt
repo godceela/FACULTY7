@@ -1,0 +1,9 @@
+TO-DOS:
+
+PATIENT FORM 
+- BAWASAN MGA COLUMN 
+-  BIRTHDAY GAWING DATE KUNG KAILAN NAG CHECKUP
+
+--
+#lagyan ng logoutt button (login sa patient)
+
